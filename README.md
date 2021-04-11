@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, meu nome é <strong>Gabriel!</strong>
 
-<!--
-**iNyanko/iNyanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Sou formado em Administração, com especialização em Comunicação Empresarial e Institucional. Sou um amente de tecnologia e, recentemente, comecei a aprender a linguagem Python.
 
-Here are some ideas to get you started:
+🔭 No momento estou focado em criar diversos projetos de nível simples, para conseguir aprimorar os meus conhecimentos em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Caso você deseje entrar em contato comigo, só me enviar uma mensagem!
+
+----
+
+## 🚀 Minhas Skills
+
+### Nível básico
+
+<code><img height="32" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code>
+<code><img height="32" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNyanko&show_icons=true)
+
